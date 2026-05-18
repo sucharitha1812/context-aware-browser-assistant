@@ -183,10 +183,12 @@ Popup UI / Floating Panel
 context-aware-browser-assistant/
 │
 ├── README.md
+├── .gitignore
 ├── package.json
-├── package-lock.json
 ├── vite.config.ts
 ├── tsconfig.json
+├── tsconfig.app.json
+├── tsconfig.node.json
 ├── eslint.config.js
 ├── postcss.config.js
 ├── tailwind.config.js
@@ -196,18 +198,18 @@ context-aware-browser-assistant/
 │   ├── background.js
 │   ├── contentScript.js
 │   ├── manifest.json
-│   └── icons/
+│   ├── icon-128.jpg
+│   └── vite.svg
 │
-├── src/
-│   ├── App.tsx
-│   ├── App.css
-│   ├── index.css
-│   ├── main.tsx
-│   │
-│   ├── assets/
-│   └── components/
-│
-└── dist/
+└── src/
+    ├── App.tsx
+    ├── App.css
+    ├── index.css
+    ├── main.tsx
+    ├── vite-env.d.ts
+    │
+    └── assets/
+        └── react.svg
 ```
 
 ---
