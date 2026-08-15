@@ -219,7 +219,7 @@ context-aware-browser-assistant/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/sucharitha1812/context-aware-browser-assistant.git
+git clone https://github.com/sucharithag18/context-aware-browser-assistant.git
 cd context-aware-browser-assistant
 ```
 
@@ -377,20 +377,6 @@ This project is designed privacy-first.
 - Source highlighting
 - Streaming AI responses
 - Cross-browser support
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## 👨‍💻 Author
-
-Built by Sucharitha Reddy Gaddam
-
-- GitHub: https://github.com/sucharitha1812
 
 ---
 
